@@ -1,4 +1,6 @@
 Glas Bier
 Flasche Bier
 Kiste Bier
+Fass Bier
+Lastwagen voll Bier
 
