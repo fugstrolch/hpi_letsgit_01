@@ -1,0 +1,4 @@
+Glas Bier
+Flasche Bier
+Kiste Bier
+
